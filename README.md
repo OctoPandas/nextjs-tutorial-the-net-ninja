@@ -112,4 +112,4 @@ import Head from 'next/head'
 
 ## 部署到 Vercel
 
-将源代码托管至 GitHub，并在 Vercel 中关联 GitHub 账户。选择对应的参数，即可一键部署。
+将源代码托管至 GitHub，并在 Vercel 中关联 GitHub 账户。选择对应的仓库，即可一键部署。
